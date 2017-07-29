@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (c) 2017, Mobilyte Tech India Pvt. Ltd. and/or its affiliates. All rights reserved.
+  ~     Redistribution and use in source and binary forms, with or without
+  ~     modification, are permitted provided that the following conditions are met:
+  ~     - Redistributions of source code must retain the above copyright
+  ~       notice, this list of conditions and the following disclaimer.
+  ~
+  ~     - Redistributions in binary form must reproduce the above copyright
+  ~       notice, this list of conditions and the following disclaimer in the
+  ~       documentation and/or other materials provided with the distribution.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">Read News</string>
+    <string name="app_description_text">Read News from different sources</string>
+    <string name="networkError">Network connection error</string>
+
+    <!-- Sources -->
+    <string name="sources">Sources</string>
+    <string name="emptySources">No Sources found</string>
+
+    <!-- Articles -->
+    <string name="share">Share</string>
+    <string name="readFullArticle">Visit website</string>
+    <string name="by">by</string>
+    <string name="at">at</string>
+    <string name="emptyArticles">No Articles found</string>
+
+    <string name="attributionLink"><![CDATA[<a href="https://newsapi.org/"><u>Powered by News API</u></a>]]></string>
+</resources>

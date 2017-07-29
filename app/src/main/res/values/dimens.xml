@@ -1,0 +1,43 @@
+<!--
+  ~ Copyright (c) 2017, Mobilyte Tech India Pvt. Ltd. and/or its affiliates. All rights reserved.
+  ~   Redistribution and use in source and binary forms, with or without
+  ~    modification, are permitted provided that the following conditions are met:
+  ~   - Redistributions of source code must retain the above copyright
+  ~      notice, this list of conditions and the following disclaimer.
+  ~
+  ~   - Redistributions in binary form must reproduce the above copyright
+  ~      notice, this list of conditions and the following disclaimer in the
+  ~      documentation and/or other materials provided with the distribution.
+  -->
+
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="drawablePadding">5dp</dimen>
+
+    <dimen name="textSizeVeryLarge">20sp</dimen>
+    <dimen name="textSizeLarge">18sp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textSizeMedium">14sp</dimen>
+    <dimen name="textSizeSmall">12sp</dimen>
+    <dimen name="textSizeVerySmall">10sp</dimen>
+
+    <dimen name="marginXXLarge">20dp</dimen>
+    <dimen name="marginXLarge">15dp</dimen>
+    <dimen name="marginLarge">12dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="marginSmall">5dp</dimen>
+
+    <dimen name="item_margin">2dp</dimen>
+
+    <dimen name="fabClipPadding">80dp</dimen>
+
+    <dimen name="buttonHeight">40dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="top_margin_title_collapsing_toolbar">70dp</dimen>
+
+    <dimen name="tall_toolbar_height">150dp</dimen>
+</resources>
