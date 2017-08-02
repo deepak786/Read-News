@@ -6,7 +6,7 @@ This project is sample app made in Kotlin. [Read News app is available on Play S
 1. You need a Android Studio
 2. Get your API key from `https://newsapi.org/`. Replace your API key in `gradle.properties`
 3. This app has the feature of deep linking. If you want to check that feature, goto `http://branch.io`
-Create an account or login with your existing account. Create a new app. Add your `schema` and `Brach live API KEY` inside application in `gradle.properties`.
+Create an account or login with your existing account. Create a new app. Add your `Branch keys (schema, KEY, HOST link)` inside application in `gradle.properties`.
 4. The `Kotlin` plugin for Android Studio is also required.
 
 ## TODO
